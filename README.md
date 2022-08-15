@@ -1,2 +1,2 @@
 # Digital clock-repo
- digita clock
+ digital clock
